@@ -7,8 +7,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<name>sfhkws Maven Webapp</name>
 	<url>http://maven.apache.org</url>
+	
 	<dependencies>
-
 		<dependency>
 			<groupId>javax.servlet</groupId>
 			<artifactId>javax.servlet-api</artifactId>
@@ -78,7 +78,7 @@
 				<artifactId>heroku-maven-plugin</artifactId>
 				<version>0.5.1</version>
 				<configuration>
-					<appName>mytjava</appName>
+					<appName>sf-rec-pdfa</appName>
 				</configuration>
 			</plugin>
 		</plugins>

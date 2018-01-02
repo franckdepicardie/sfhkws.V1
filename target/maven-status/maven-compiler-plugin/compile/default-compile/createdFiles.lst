@@ -1,4 +1,2 @@
-com/javacodegeeks/enterprise/rest/jersey/transformCurrentPdf.class
-com/javacodegeeks/enterprise/rest/jersey/createPdfA.class
-com/javacodegeeks/enterprise/rest/jersey/HelloSample.class
-com/javacodegeeks/enterprise/rest/jersey/gsTransform.class
+com/sf/pdfa/gsTransform.class
+com/sf/pdfa/EeradUtilsMethod.class
